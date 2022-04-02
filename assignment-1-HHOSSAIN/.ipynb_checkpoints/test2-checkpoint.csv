@@ -1,0 +1,2074 @@
+date,location,0
+1,Argentina,31
+1,Asia,10
+1,Australia,6
+1,Cambodia,5
+1,Canada,6
+1,China,10
+1,Europe,9
+1,European Union,9
+1,Fiji,2
+1,Finland,3
+1,France,8
+1,Germany,5
+1,Hong Kong,1
+1,India,2
+1,Italy,1
+1,Japan,10
+1,Malaysia,7
+1,Mexico,31
+1,Nepal,7
+1,North America,10
+1,Oceania,7
+1,Peru,19
+1,Philippines,2
+1,Russia,1
+1,Singapore,9
+1,South Korea,11
+1,Sri Lanka,5
+1,Taiwan,16
+1,Thailand,28
+1,United Arab Emirates,3
+1,United Kingdom,1
+1,United States,10
+1,Vietnam,9
+1,World,10
+2,Afghanistan,6
+2,Africa,17
+2,Albania,5
+2,Algeria,5
+2,Argentina,29
+2,Asia,29
+2,Australia,29
+2,Austria,5
+2,Bahrain,6
+2,Belarus,2
+2,Belgium,26
+2,Brazil,4
+2,Cambodia,29
+2,Canada,29
+2,Chile,7
+2,China,29
+2,Croatia,5
+2,Czechia,4
+2,Denmark,28
+2,Egypt,16
+2,Estonia,5
+2,Europe,29
+2,European Union,29
+2,Fiji,29
+2,Finland,29
+2,France,29
+2,Georgia,4
+2,Germany,29
+2,Greece,8
+2,Guatemala,13
+2,Hong Kong,1
+2,Iceland,4
+2,India,29
+2,International,23
+2,Iran,11
+2,Iraq,6
+2,Ireland,5
+2,Israel,10
+2,Italy,29
+2,Japan,29
+2,Kuwait,6
+2,Latvia,5
+2,Lebanon,9
+2,Lithuania,2
+2,Luxembourg,6
+2,Malaysia,29
+2,Malta,24
+2,Mexico,29
+2,Monaco,1
+2,Morocco,23
+2,Nepal,29
+2,Netherlands,6
+2,New Zealand,2
+2,Nigeria,2
+2,North America,29
+2,North Macedonia,4
+2,Norway,7
+2,Oceania,29
+2,Oman,6
+2,Pakistan,5
+2,Peru,29
+2,Philippines,29
+2,Portugal,4
+2,Qatar,1
+2,Romania,4
+2,Russia,29
+2,San Marino,3
+2,Senegal,2
+2,Serbia,4
+2,Singapore,29
+2,Slovenia,28
+2,South Africa,23
+2,South America,8
+2,South Korea,29
+2,Spain,29
+2,Sri Lanka,29
+2,Sweden,29
+2,Switzerland,24
+2,Taiwan,29
+2,Thailand,29
+2,United Arab Emirates,29
+2,United Kingdom,29
+2,United States,29
+2,Vietnam,29
+2,World,29
+3,Afghanistan,31
+3,Africa,31
+3,Albania,31
+3,Algeria,31
+3,Andorra,30
+3,Angola,12
+3,Antigua and Barbuda,19
+3,Argentina,31
+3,Armenia,31
+3,Asia,31
+3,Australia,31
+3,Austria,31
+3,Azerbaijan,31
+3,Bahamas,16
+3,Bahrain,31
+3,Bangladesh,29
+3,Barbados,15
+3,Belarus,31
+3,Belgium,31
+3,Belize,9
+3,Benin,16
+3,Bhutan,26
+3,Bolivia,21
+3,Bosnia and Herzegovina,27
+3,Botswana,2
+3,Brazil,31
+3,Brunei,23
+3,Bulgaria,24
+3,Burkina Faso,22
+3,Burundi,1
+3,Cambodia,31
+3,Cameroon,26
+3,Canada,31
+3,Cape Verde,12
+3,Central African Republic,17
+3,Chad,13
+3,Chile,31
+3,China,31
+3,Colombia,26
+3,Congo,17
+3,Costa Rica,26
+3,Cote d'Ivoire,21
+3,Croatia,31
+3,Cuba,20
+3,Cyprus,23
+3,Czechia,31
+3,Democratic Republic of Congo,21
+3,Denmark,31
+3,Djibouti,14
+3,Dominica,10
+3,Dominican Republic,31
+3,Ecuador,31
+3,Egypt,31
+3,El Salvador,13
+3,Equatorial Guinea,17
+3,Eritrea,11
+3,Estonia,31
+3,Eswatini,18
+3,Ethiopia,19
+3,Europe,31
+3,European Union,31
+3,Fiji,31
+3,Finland,31
+3,France,31
+3,Gabon,18
+3,Gambia,15
+3,Georgia,31
+3,Germany,31
+3,Ghana,18
+3,Greece,31
+3,Grenada,10
+3,Guatemala,31
+3,Guinea,19
+3,Guinea-Bissau,7
+3,Guyana,20
+3,Haiti,12
+3,Honduras,21
+3,Hong Kong,1
+3,Hungary,28
+3,Iceland,31
+3,India,31
+3,Indonesia,30
+3,International,31
+3,Iran,31
+3,Iraq,31
+3,Ireland,31
+3,Israel,31
+3,Italy,31
+3,Jamaica,21
+3,Japan,31
+3,Jordan,29
+3,Kazakhstan,19
+3,Kenya,26
+3,Kosovo,18
+3,Kuwait,31
+3,Kyrgyzstan,14
+3,Laos,8
+3,Latvia,31
+3,Lebanon,31
+3,Liberia,16
+3,Libya,28
+3,Liechtenstein,28
+3,Lithuania,31
+3,Luxembourg,31
+3,Madagascar,12
+3,Malawi,3
+3,Malaysia,31
+3,Maldives,24
+3,Mali,7
+3,Malta,31
+3,Mauritania,18
+3,Mauritius,14
+3,Mexico,31
+3,Moldova,24
+3,Monaco,31
+3,Mongolia,22
+3,Montenegro,15
+3,Morocco,31
+3,Mozambique,10
+3,Myanmar,5
+3,Namibia,18
+3,Nepal,31
+3,Netherlands,31
+3,New Zealand,31
+3,Nicaragua,13
+3,Niger,12
+3,Nigeria,31
+3,North America,31
+3,North Macedonia,31
+3,Norway,31
+3,Oceania,31
+3,Oman,31
+3,Pakistan,31
+3,Palestine,27
+3,Panama,23
+3,Papua New Guinea,12
+3,Paraguay,25
+3,Peru,31
+3,Philippines,31
+3,Poland,28
+3,Portugal,31
+3,Qatar,31
+3,Romania,31
+3,Russia,31
+3,Rwanda,18
+3,Saint Kitts and Nevis,7
+3,Saint Lucia,18
+3,Saint Vincent and the Grenadines,18
+3,San Marino,31
+3,Saudi Arabia,30
+3,Senegal,31
+3,Serbia,31
+3,Seychelles,18
+3,Sierra Leone,1
+3,Singapore,31
+3,Slovakia,26
+3,Slovenia,31
+3,Somalia,16
+3,South Africa,31
+3,South America,31
+3,South Korea,31
+3,Spain,31
+3,Sri Lanka,31
+3,Sudan,20
+3,Suriname,18
+3,Sweden,31
+3,Switzerland,31
+3,Syria,10
+3,Taiwan,31
+3,Tanzania,16
+3,Thailand,31
+3,Timor,10
+3,Togo,28
+3,Trinidad and Tobago,18
+3,Tunisia,28
+3,Turkey,21
+3,Uganda,11
+3,Ukraine,29
+3,United Arab Emirates,31
+3,United Kingdom,31
+3,United States,31
+3,Uruguay,19
+3,Uzbekistan,17
+3,Vatican,26
+3,Venezuela,18
+3,Vietnam,31
+3,World,31
+3,Zambia,14
+3,Zimbabwe,12
+4,Afghanistan,30
+4,Africa,30
+4,Albania,30
+4,Algeria,30
+4,Andorra,30
+4,Angola,30
+4,Antigua and Barbuda,30
+4,Argentina,30
+4,Armenia,30
+4,Asia,30
+4,Australia,30
+4,Austria,30
+4,Azerbaijan,30
+4,Bahamas,30
+4,Bahrain,30
+4,Bangladesh,30
+4,Barbados,30
+4,Belarus,30
+4,Belgium,30
+4,Belize,30
+4,Benin,30
+4,Bhutan,30
+4,Bolivia,30
+4,Bosnia and Herzegovina,30
+4,Botswana,30
+4,Brazil,30
+4,Brunei,30
+4,Bulgaria,30
+4,Burkina Faso,30
+4,Burundi,30
+4,Cambodia,30
+4,Cameroon,30
+4,Canada,30
+4,Cape Verde,30
+4,Central African Republic,30
+4,Chad,30
+4,Chile,30
+4,China,30
+4,Colombia,30
+4,Comoros,1
+4,Congo,30
+4,Costa Rica,30
+4,Cote d'Ivoire,30
+4,Croatia,30
+4,Cuba,30
+4,Cyprus,30
+4,Czechia,30
+4,Democratic Republic of Congo,30
+4,Denmark,30
+4,Djibouti,30
+4,Dominica,30
+4,Dominican Republic,30
+4,Ecuador,30
+4,Egypt,30
+4,El Salvador,30
+4,Equatorial Guinea,30
+4,Eritrea,30
+4,Estonia,30
+4,Eswatini,30
+4,Ethiopia,30
+4,Europe,30
+4,European Union,30
+4,Fiji,30
+4,Finland,30
+4,France,30
+4,Gabon,30
+4,Gambia,30
+4,Georgia,30
+4,Germany,30
+4,Ghana,30
+4,Greece,30
+4,Grenada,30
+4,Guatemala,30
+4,Guinea,30
+4,Guinea-Bissau,30
+4,Guyana,30
+4,Haiti,30
+4,Honduras,30
+4,Hong Kong,1
+4,Hungary,30
+4,Iceland,30
+4,India,30
+4,Indonesia,30
+4,International,30
+4,Iran,30
+4,Iraq,30
+4,Ireland,30
+4,Israel,30
+4,Italy,30
+4,Jamaica,30
+4,Japan,30
+4,Jordan,30
+4,Kazakhstan,30
+4,Kenya,30
+4,Kosovo,30
+4,Kuwait,30
+4,Kyrgyzstan,30
+4,Laos,30
+4,Latvia,30
+4,Lebanon,30
+4,Liberia,30
+4,Libya,30
+4,Liechtenstein,30
+4,Lithuania,30
+4,Luxembourg,30
+4,Madagascar,30
+4,Malawi,30
+4,Malaysia,30
+4,Maldives,30
+4,Mali,30
+4,Malta,30
+4,Mauritania,30
+4,Mauritius,30
+4,Mexico,30
+4,Moldova,30
+4,Monaco,30
+4,Mongolia,30
+4,Montenegro,30
+4,Morocco,30
+4,Mozambique,30
+4,Myanmar,30
+4,Namibia,30
+4,Nepal,30
+4,Netherlands,30
+4,New Zealand,30
+4,Nicaragua,30
+4,Niger,30
+4,Nigeria,30
+4,North America,30
+4,North Macedonia,30
+4,Norway,30
+4,Oceania,30
+4,Oman,30
+4,Pakistan,30
+4,Palestine,30
+4,Panama,30
+4,Papua New Guinea,30
+4,Paraguay,30
+4,Peru,30
+4,Philippines,30
+4,Poland,30
+4,Portugal,30
+4,Qatar,30
+4,Romania,30
+4,Russia,30
+4,Rwanda,30
+4,Saint Kitts and Nevis,30
+4,Saint Lucia,30
+4,Saint Vincent and the Grenadines,30
+4,San Marino,30
+4,Sao Tome and Principe,25
+4,Saudi Arabia,30
+4,Senegal,30
+4,Serbia,30
+4,Seychelles,30
+4,Sierra Leone,30
+4,Singapore,30
+4,Slovakia,30
+4,Slovenia,30
+4,Somalia,30
+4,South Africa,30
+4,South America,30
+4,South Korea,30
+4,South Sudan,26
+4,Spain,30
+4,Sri Lanka,30
+4,Sudan,30
+4,Suriname,30
+4,Sweden,30
+4,Switzerland,30
+4,Syria,30
+4,Taiwan,30
+4,Tajikistan,1
+4,Tanzania,30
+4,Thailand,30
+4,Timor,30
+4,Togo,30
+4,Trinidad and Tobago,30
+4,Tunisia,30
+4,Turkey,30
+4,Uganda,30
+4,Ukraine,30
+4,United Arab Emirates,30
+4,United Kingdom,30
+4,United States,30
+4,Uruguay,30
+4,Uzbekistan,30
+4,Vatican,30
+4,Venezuela,30
+4,Vietnam,30
+4,World,30
+4,Yemen,21
+4,Zambia,30
+4,Zimbabwe,30
+5,Afghanistan,31
+5,Africa,31
+5,Albania,31
+5,Algeria,31
+5,Andorra,31
+5,Angola,31
+5,Antigua and Barbuda,31
+5,Argentina,31
+5,Armenia,31
+5,Asia,31
+5,Australia,31
+5,Austria,31
+5,Azerbaijan,31
+5,Bahamas,31
+5,Bahrain,31
+5,Bangladesh,31
+5,Barbados,31
+5,Belarus,31
+5,Belgium,31
+5,Belize,31
+5,Benin,31
+5,Bhutan,31
+5,Bolivia,31
+5,Bosnia and Herzegovina,31
+5,Botswana,31
+5,Brazil,31
+5,Brunei,31
+5,Bulgaria,31
+5,Burkina Faso,31
+5,Burundi,31
+5,Cambodia,31
+5,Cameroon,31
+5,Canada,31
+5,Cape Verde,31
+5,Central African Republic,31
+5,Chad,31
+5,Chile,31
+5,China,31
+5,Colombia,31
+5,Comoros,31
+5,Congo,31
+5,Costa Rica,31
+5,Cote d'Ivoire,31
+5,Croatia,31
+5,Cuba,31
+5,Cyprus,31
+5,Czechia,31
+5,Democratic Republic of Congo,31
+5,Denmark,31
+5,Djibouti,31
+5,Dominica,31
+5,Dominican Republic,31
+5,Ecuador,31
+5,Egypt,31
+5,El Salvador,31
+5,Equatorial Guinea,31
+5,Eritrea,31
+5,Estonia,31
+5,Eswatini,31
+5,Ethiopia,31
+5,Europe,31
+5,European Union,31
+5,Fiji,31
+5,Finland,31
+5,France,31
+5,Gabon,31
+5,Gambia,31
+5,Georgia,31
+5,Germany,31
+5,Ghana,31
+5,Greece,31
+5,Grenada,31
+5,Guatemala,31
+5,Guinea,31
+5,Guinea-Bissau,31
+5,Guyana,31
+5,Haiti,31
+5,Honduras,31
+5,Hong Kong,1
+5,Hungary,31
+5,Iceland,31
+5,India,31
+5,Indonesia,31
+5,International,31
+5,Iran,31
+5,Iraq,31
+5,Ireland,31
+5,Israel,31
+5,Italy,31
+5,Jamaica,31
+5,Japan,31
+5,Jordan,31
+5,Kazakhstan,31
+5,Kenya,31
+5,Kosovo,31
+5,Kuwait,31
+5,Kyrgyzstan,31
+5,Laos,31
+5,Latvia,31
+5,Lebanon,31
+5,Lesotho,19
+5,Liberia,31
+5,Libya,31
+5,Liechtenstein,31
+5,Lithuania,31
+5,Luxembourg,31
+5,Madagascar,31
+5,Malawi,31
+5,Malaysia,31
+5,Maldives,31
+5,Mali,31
+5,Malta,31
+5,Mauritania,31
+5,Mauritius,31
+5,Mexico,31
+5,Moldova,31
+5,Monaco,31
+5,Mongolia,31
+5,Montenegro,31
+5,Morocco,31
+5,Mozambique,31
+5,Myanmar,31
+5,Namibia,31
+5,Nepal,31
+5,Netherlands,31
+5,New Zealand,31
+5,Nicaragua,31
+5,Niger,31
+5,Nigeria,31
+5,North America,31
+5,North Macedonia,31
+5,Norway,31
+5,Oceania,31
+5,Oman,31
+5,Pakistan,31
+5,Palestine,31
+5,Panama,31
+5,Papua New Guinea,31
+5,Paraguay,31
+5,Peru,31
+5,Philippines,31
+5,Poland,31
+5,Portugal,31
+5,Qatar,31
+5,Romania,31
+5,Russia,31
+5,Rwanda,31
+5,Saint Kitts and Nevis,31
+5,Saint Lucia,31
+5,Saint Vincent and the Grenadines,31
+5,San Marino,31
+5,Sao Tome and Principe,31
+5,Saudi Arabia,31
+5,Senegal,31
+5,Serbia,31
+5,Seychelles,31
+5,Sierra Leone,31
+5,Singapore,31
+5,Slovakia,31
+5,Slovenia,31
+5,Somalia,31
+5,South Africa,31
+5,South America,31
+5,South Korea,31
+5,South Sudan,31
+5,Spain,31
+5,Sri Lanka,31
+5,Sudan,31
+5,Suriname,31
+5,Sweden,31
+5,Switzerland,31
+5,Syria,31
+5,Taiwan,31
+5,Tajikistan,31
+5,Tanzania,31
+5,Thailand,31
+5,Timor,31
+5,Togo,31
+5,Trinidad and Tobago,31
+5,Tunisia,31
+5,Turkey,31
+5,Uganda,31
+5,Ukraine,31
+5,United Arab Emirates,31
+5,United Kingdom,31
+5,United States,31
+5,Uruguay,31
+5,Uzbekistan,31
+5,Vatican,31
+5,Venezuela,31
+5,Vietnam,31
+5,World,31
+5,Yemen,31
+5,Zambia,31
+5,Zimbabwe,31
+6,Afghanistan,30
+6,Africa,30
+6,Albania,30
+6,Algeria,30
+6,Andorra,30
+6,Angola,30
+6,Antigua and Barbuda,30
+6,Argentina,30
+6,Armenia,30
+6,Asia,30
+6,Australia,30
+6,Austria,30
+6,Azerbaijan,30
+6,Bahamas,30
+6,Bahrain,30
+6,Bangladesh,30
+6,Barbados,30
+6,Belarus,30
+6,Belgium,30
+6,Belize,30
+6,Benin,30
+6,Bhutan,30
+6,Bolivia,30
+6,Bosnia and Herzegovina,30
+6,Botswana,30
+6,Brazil,30
+6,Brunei,30
+6,Bulgaria,30
+6,Burkina Faso,30
+6,Burundi,30
+6,Cambodia,30
+6,Cameroon,30
+6,Canada,30
+6,Cape Verde,30
+6,Central African Republic,30
+6,Chad,30
+6,Chile,30
+6,China,30
+6,Colombia,30
+6,Comoros,30
+6,Congo,30
+6,Costa Rica,30
+6,Cote d'Ivoire,30
+6,Croatia,30
+6,Cuba,30
+6,Cyprus,30
+6,Czechia,30
+6,Democratic Republic of Congo,30
+6,Denmark,30
+6,Djibouti,30
+6,Dominica,30
+6,Dominican Republic,30
+6,Ecuador,30
+6,Egypt,30
+6,El Salvador,30
+6,Equatorial Guinea,30
+6,Eritrea,30
+6,Estonia,30
+6,Eswatini,30
+6,Ethiopia,30
+6,Europe,30
+6,European Union,30
+6,Fiji,30
+6,Finland,30
+6,France,30
+6,Gabon,30
+6,Gambia,30
+6,Georgia,30
+6,Germany,30
+6,Ghana,30
+6,Greece,30
+6,Grenada,30
+6,Guatemala,30
+6,Guinea,30
+6,Guinea-Bissau,30
+6,Guyana,30
+6,Haiti,30
+6,Honduras,30
+6,Hong Kong,1
+6,Hungary,30
+6,Iceland,30
+6,India,30
+6,Indonesia,30
+6,International,30
+6,Iran,30
+6,Iraq,30
+6,Ireland,30
+6,Israel,30
+6,Italy,30
+6,Jamaica,30
+6,Japan,30
+6,Jordan,30
+6,Kazakhstan,30
+6,Kenya,30
+6,Kosovo,30
+6,Kuwait,30
+6,Kyrgyzstan,30
+6,Laos,30
+6,Latvia,30
+6,Lebanon,30
+6,Lesotho,30
+6,Liberia,30
+6,Libya,30
+6,Liechtenstein,30
+6,Lithuania,30
+6,Luxembourg,30
+6,Madagascar,30
+6,Malawi,30
+6,Malaysia,30
+6,Maldives,30
+6,Mali,30
+6,Malta,30
+6,Mauritania,30
+6,Mauritius,30
+6,Mexico,30
+6,Moldova,30
+6,Monaco,30
+6,Mongolia,30
+6,Montenegro,30
+6,Morocco,30
+6,Mozambique,30
+6,Myanmar,30
+6,Namibia,30
+6,Nepal,30
+6,Netherlands,30
+6,New Zealand,30
+6,Nicaragua,30
+6,Niger,30
+6,Nigeria,30
+6,North America,30
+6,North Macedonia,30
+6,Norway,30
+6,Oceania,30
+6,Oman,30
+6,Pakistan,30
+6,Palestine,30
+6,Panama,30
+6,Papua New Guinea,30
+6,Paraguay,30
+6,Peru,30
+6,Philippines,30
+6,Poland,30
+6,Portugal,30
+6,Qatar,30
+6,Romania,30
+6,Russia,30
+6,Rwanda,30
+6,Saint Kitts and Nevis,30
+6,Saint Lucia,30
+6,Saint Vincent and the Grenadines,30
+6,San Marino,30
+6,Sao Tome and Principe,30
+6,Saudi Arabia,30
+6,Senegal,30
+6,Serbia,30
+6,Seychelles,30
+6,Sierra Leone,30
+6,Singapore,30
+6,Slovakia,30
+6,Slovenia,30
+6,Somalia,30
+6,South Africa,30
+6,South America,30
+6,South Korea,30
+6,South Sudan,30
+6,Spain,30
+6,Sri Lanka,30
+6,Sudan,30
+6,Suriname,30
+6,Sweden,30
+6,Switzerland,30
+6,Syria,30
+6,Taiwan,30
+6,Tajikistan,30
+6,Tanzania,30
+6,Thailand,30
+6,Timor,30
+6,Togo,30
+6,Trinidad and Tobago,30
+6,Tunisia,30
+6,Turkey,30
+6,Uganda,30
+6,Ukraine,30
+6,United Arab Emirates,30
+6,United Kingdom,30
+6,United States,30
+6,Uruguay,30
+6,Uzbekistan,30
+6,Vatican,30
+6,Venezuela,30
+6,Vietnam,30
+6,World,30
+6,Yemen,30
+6,Zambia,30
+6,Zimbabwe,30
+7,Afghanistan,31
+7,Africa,31
+7,Albania,31
+7,Algeria,31
+7,Andorra,31
+7,Angola,31
+7,Antigua and Barbuda,31
+7,Argentina,31
+7,Armenia,31
+7,Asia,31
+7,Australia,31
+7,Austria,31
+7,Azerbaijan,31
+7,Bahamas,31
+7,Bahrain,31
+7,Bangladesh,31
+7,Barbados,31
+7,Belarus,31
+7,Belgium,31
+7,Belize,31
+7,Benin,31
+7,Bhutan,31
+7,Bolivia,31
+7,Bosnia and Herzegovina,31
+7,Botswana,31
+7,Brazil,31
+7,Brunei,31
+7,Bulgaria,31
+7,Burkina Faso,31
+7,Burundi,31
+7,Cambodia,31
+7,Cameroon,31
+7,Canada,31
+7,Cape Verde,31
+7,Central African Republic,31
+7,Chad,31
+7,Chile,31
+7,China,31
+7,Colombia,31
+7,Comoros,31
+7,Congo,31
+7,Costa Rica,31
+7,Cote d'Ivoire,31
+7,Croatia,31
+7,Cuba,31
+7,Cyprus,31
+7,Czechia,31
+7,Democratic Republic of Congo,31
+7,Denmark,31
+7,Djibouti,31
+7,Dominica,31
+7,Dominican Republic,31
+7,Ecuador,31
+7,Egypt,31
+7,El Salvador,31
+7,Equatorial Guinea,31
+7,Eritrea,31
+7,Estonia,31
+7,Eswatini,31
+7,Ethiopia,31
+7,Europe,31
+7,European Union,31
+7,Fiji,31
+7,Finland,31
+7,France,31
+7,Gabon,31
+7,Gambia,31
+7,Georgia,31
+7,Germany,31
+7,Ghana,31
+7,Greece,31
+7,Grenada,31
+7,Guatemala,31
+7,Guinea,31
+7,Guinea-Bissau,31
+7,Guyana,31
+7,Haiti,31
+7,Honduras,31
+7,Hong Kong,1
+7,Hungary,31
+7,Iceland,31
+7,India,31
+7,Indonesia,31
+7,International,31
+7,Iran,31
+7,Iraq,31
+7,Ireland,31
+7,Israel,31
+7,Italy,31
+7,Jamaica,31
+7,Japan,31
+7,Jordan,31
+7,Kazakhstan,31
+7,Kenya,31
+7,Kosovo,31
+7,Kuwait,31
+7,Kyrgyzstan,31
+7,Laos,31
+7,Latvia,31
+7,Lebanon,31
+7,Lesotho,31
+7,Liberia,31
+7,Libya,31
+7,Liechtenstein,31
+7,Lithuania,31
+7,Luxembourg,31
+7,Madagascar,31
+7,Malawi,31
+7,Malaysia,31
+7,Maldives,31
+7,Mali,31
+7,Malta,31
+7,Mauritania,31
+7,Mauritius,31
+7,Mexico,31
+7,Moldova,31
+7,Monaco,31
+7,Mongolia,31
+7,Montenegro,31
+7,Morocco,31
+7,Mozambique,31
+7,Myanmar,31
+7,Namibia,31
+7,Nepal,31
+7,Netherlands,31
+7,New Zealand,31
+7,Nicaragua,31
+7,Niger,31
+7,Nigeria,31
+7,North America,31
+7,North Macedonia,31
+7,Norway,31
+7,Oceania,31
+7,Oman,31
+7,Pakistan,31
+7,Palestine,31
+7,Panama,31
+7,Papua New Guinea,31
+7,Paraguay,31
+7,Peru,31
+7,Philippines,31
+7,Poland,31
+7,Portugal,31
+7,Qatar,31
+7,Romania,31
+7,Russia,31
+7,Rwanda,31
+7,Saint Kitts and Nevis,31
+7,Saint Lucia,31
+7,Saint Vincent and the Grenadines,31
+7,San Marino,31
+7,Sao Tome and Principe,31
+7,Saudi Arabia,31
+7,Senegal,31
+7,Serbia,31
+7,Seychelles,31
+7,Sierra Leone,31
+7,Singapore,31
+7,Slovakia,31
+7,Slovenia,31
+7,Somalia,31
+7,South Africa,31
+7,South America,31
+7,South Korea,31
+7,South Sudan,31
+7,Spain,31
+7,Sri Lanka,31
+7,Sudan,31
+7,Suriname,31
+7,Sweden,31
+7,Switzerland,31
+7,Syria,31
+7,Taiwan,31
+7,Tajikistan,31
+7,Tanzania,31
+7,Thailand,31
+7,Timor,31
+7,Togo,31
+7,Trinidad and Tobago,31
+7,Tunisia,31
+7,Turkey,31
+7,Uganda,31
+7,Ukraine,31
+7,United Arab Emirates,31
+7,United Kingdom,31
+7,United States,31
+7,Uruguay,31
+7,Uzbekistan,31
+7,Vatican,31
+7,Venezuela,31
+7,Vietnam,31
+7,World,31
+7,Yemen,31
+7,Zambia,31
+7,Zimbabwe,31
+8,Afghanistan,31
+8,Africa,31
+8,Albania,31
+8,Algeria,31
+8,Andorra,31
+8,Angola,31
+8,Antigua and Barbuda,31
+8,Argentina,31
+8,Armenia,31
+8,Asia,31
+8,Australia,31
+8,Austria,31
+8,Azerbaijan,31
+8,Bahamas,31
+8,Bahrain,31
+8,Bangladesh,31
+8,Barbados,31
+8,Belarus,31
+8,Belgium,31
+8,Belize,31
+8,Benin,31
+8,Bhutan,31
+8,Bolivia,31
+8,Bosnia and Herzegovina,31
+8,Botswana,31
+8,Brazil,31
+8,Brunei,31
+8,Bulgaria,31
+8,Burkina Faso,31
+8,Burundi,31
+8,Cambodia,31
+8,Cameroon,31
+8,Canada,31
+8,Cape Verde,31
+8,Central African Republic,31
+8,Chad,31
+8,Chile,31
+8,China,31
+8,Colombia,31
+8,Comoros,31
+8,Congo,31
+8,Costa Rica,31
+8,Cote d'Ivoire,31
+8,Croatia,31
+8,Cuba,31
+8,Cyprus,31
+8,Czechia,31
+8,Democratic Republic of Congo,31
+8,Denmark,31
+8,Djibouti,31
+8,Dominica,31
+8,Dominican Republic,31
+8,Ecuador,31
+8,Egypt,31
+8,El Salvador,31
+8,Equatorial Guinea,31
+8,Eritrea,31
+8,Estonia,31
+8,Eswatini,31
+8,Ethiopia,31
+8,Europe,31
+8,European Union,31
+8,Fiji,31
+8,Finland,31
+8,France,31
+8,Gabon,31
+8,Gambia,31
+8,Georgia,31
+8,Germany,31
+8,Ghana,31
+8,Greece,31
+8,Grenada,31
+8,Guatemala,31
+8,Guinea,31
+8,Guinea-Bissau,31
+8,Guyana,31
+8,Haiti,31
+8,Honduras,31
+8,Hong Kong,1
+8,Hungary,31
+8,Iceland,31
+8,India,31
+8,Indonesia,31
+8,International,31
+8,Iran,31
+8,Iraq,31
+8,Ireland,31
+8,Israel,31
+8,Italy,31
+8,Jamaica,31
+8,Japan,31
+8,Jordan,31
+8,Kazakhstan,31
+8,Kenya,31
+8,Kosovo,31
+8,Kuwait,31
+8,Kyrgyzstan,31
+8,Laos,31
+8,Latvia,31
+8,Lebanon,31
+8,Lesotho,31
+8,Liberia,31
+8,Libya,31
+8,Liechtenstein,31
+8,Lithuania,31
+8,Luxembourg,31
+8,Madagascar,31
+8,Malawi,31
+8,Malaysia,31
+8,Maldives,31
+8,Mali,31
+8,Malta,31
+8,Mauritania,31
+8,Mauritius,31
+8,Mexico,31
+8,Moldova,31
+8,Monaco,31
+8,Mongolia,31
+8,Montenegro,31
+8,Morocco,31
+8,Mozambique,31
+8,Myanmar,31
+8,Namibia,31
+8,Nepal,31
+8,Netherlands,31
+8,New Zealand,31
+8,Nicaragua,31
+8,Niger,31
+8,Nigeria,31
+8,North America,31
+8,North Macedonia,31
+8,Norway,31
+8,Oceania,31
+8,Oman,31
+8,Pakistan,31
+8,Palestine,31
+8,Panama,31
+8,Papua New Guinea,31
+8,Paraguay,31
+8,Peru,31
+8,Philippines,31
+8,Poland,31
+8,Portugal,31
+8,Qatar,31
+8,Romania,31
+8,Russia,31
+8,Rwanda,31
+8,Saint Kitts and Nevis,31
+8,Saint Lucia,31
+8,Saint Vincent and the Grenadines,31
+8,San Marino,31
+8,Sao Tome and Principe,31
+8,Saudi Arabia,31
+8,Senegal,31
+8,Serbia,31
+8,Seychelles,31
+8,Sierra Leone,31
+8,Singapore,31
+8,Slovakia,31
+8,Slovenia,31
+8,Somalia,31
+8,South Africa,31
+8,South America,31
+8,South Korea,31
+8,South Sudan,31
+8,Spain,31
+8,Sri Lanka,31
+8,Sudan,31
+8,Suriname,31
+8,Sweden,31
+8,Switzerland,31
+8,Syria,31
+8,Taiwan,31
+8,Tajikistan,31
+8,Tanzania,31
+8,Thailand,31
+8,Timor,31
+8,Togo,31
+8,Trinidad and Tobago,31
+8,Tunisia,31
+8,Turkey,31
+8,Uganda,31
+8,Ukraine,31
+8,United Arab Emirates,31
+8,United Kingdom,31
+8,United States,31
+8,Uruguay,31
+8,Uzbekistan,31
+8,Vatican,31
+8,Venezuela,31
+8,Vietnam,31
+8,World,31
+8,Yemen,31
+8,Zambia,31
+8,Zimbabwe,31
+9,Afghanistan,30
+9,Africa,30
+9,Albania,30
+9,Algeria,30
+9,Andorra,30
+9,Angola,30
+9,Antigua and Barbuda,30
+9,Argentina,30
+9,Armenia,30
+9,Asia,30
+9,Australia,30
+9,Austria,30
+9,Azerbaijan,30
+9,Bahamas,30
+9,Bahrain,30
+9,Bangladesh,30
+9,Barbados,30
+9,Belarus,30
+9,Belgium,30
+9,Belize,30
+9,Benin,30
+9,Bhutan,30
+9,Bolivia,30
+9,Bosnia and Herzegovina,30
+9,Botswana,30
+9,Brazil,30
+9,Brunei,30
+9,Bulgaria,30
+9,Burkina Faso,30
+9,Burundi,30
+9,Cambodia,30
+9,Cameroon,30
+9,Canada,30
+9,Cape Verde,30
+9,Central African Republic,30
+9,Chad,30
+9,Chile,30
+9,China,30
+9,Colombia,30
+9,Comoros,30
+9,Congo,30
+9,Costa Rica,30
+9,Cote d'Ivoire,30
+9,Croatia,30
+9,Cuba,30
+9,Cyprus,30
+9,Czechia,30
+9,Democratic Republic of Congo,30
+9,Denmark,30
+9,Djibouti,30
+9,Dominica,30
+9,Dominican Republic,30
+9,Ecuador,30
+9,Egypt,30
+9,El Salvador,30
+9,Equatorial Guinea,30
+9,Eritrea,30
+9,Estonia,30
+9,Eswatini,30
+9,Ethiopia,30
+9,Europe,30
+9,European Union,30
+9,Fiji,30
+9,Finland,30
+9,France,30
+9,Gabon,30
+9,Gambia,30
+9,Georgia,30
+9,Germany,30
+9,Ghana,30
+9,Greece,30
+9,Grenada,30
+9,Guatemala,30
+9,Guinea,30
+9,Guinea-Bissau,30
+9,Guyana,30
+9,Haiti,30
+9,Honduras,30
+9,Hong Kong,30
+9,Hungary,30
+9,Iceland,30
+9,India,30
+9,Indonesia,30
+9,International,30
+9,Iran,30
+9,Iraq,30
+9,Ireland,30
+9,Israel,30
+9,Italy,30
+9,Jamaica,30
+9,Japan,30
+9,Jordan,30
+9,Kazakhstan,30
+9,Kenya,30
+9,Kosovo,30
+9,Kuwait,30
+9,Kyrgyzstan,30
+9,Laos,30
+9,Latvia,30
+9,Lebanon,30
+9,Lesotho,30
+9,Liberia,30
+9,Libya,30
+9,Liechtenstein,30
+9,Lithuania,30
+9,Luxembourg,30
+9,Madagascar,30
+9,Malawi,30
+9,Malaysia,30
+9,Maldives,30
+9,Mali,30
+9,Malta,30
+9,Mauritania,30
+9,Mauritius,30
+9,Mexico,30
+9,Moldova,30
+9,Monaco,30
+9,Mongolia,30
+9,Montenegro,30
+9,Morocco,30
+9,Mozambique,30
+9,Myanmar,30
+9,Namibia,30
+9,Nepal,30
+9,Netherlands,30
+9,New Zealand,30
+9,Nicaragua,30
+9,Niger,30
+9,Nigeria,30
+9,North America,30
+9,North Macedonia,30
+9,Norway,30
+9,Oceania,30
+9,Oman,30
+9,Pakistan,30
+9,Palestine,30
+9,Panama,30
+9,Papua New Guinea,30
+9,Paraguay,30
+9,Peru,30
+9,Philippines,30
+9,Poland,30
+9,Portugal,30
+9,Qatar,30
+9,Romania,30
+9,Russia,30
+9,Rwanda,30
+9,Saint Kitts and Nevis,30
+9,Saint Lucia,30
+9,Saint Vincent and the Grenadines,30
+9,San Marino,30
+9,Sao Tome and Principe,30
+9,Saudi Arabia,30
+9,Senegal,30
+9,Serbia,30
+9,Seychelles,30
+9,Sierra Leone,30
+9,Singapore,30
+9,Slovakia,30
+9,Slovenia,30
+9,Somalia,30
+9,South Africa,30
+9,South America,30
+9,South Korea,30
+9,South Sudan,30
+9,Spain,30
+9,Sri Lanka,30
+9,Sudan,30
+9,Suriname,30
+9,Sweden,30
+9,Switzerland,30
+9,Syria,30
+9,Taiwan,30
+9,Tajikistan,30
+9,Tanzania,30
+9,Thailand,30
+9,Timor,30
+9,Togo,30
+9,Trinidad and Tobago,30
+9,Tunisia,30
+9,Turkey,30
+9,Uganda,30
+9,Ukraine,30
+9,United Arab Emirates,30
+9,United Kingdom,30
+9,United States,30
+9,Uruguay,30
+9,Uzbekistan,30
+9,Vatican,30
+9,Venezuela,30
+9,Vietnam,30
+9,World,30
+9,Yemen,30
+9,Zambia,30
+9,Zimbabwe,30
+10,Afghanistan,31
+10,Africa,31
+10,Albania,31
+10,Algeria,31
+10,Andorra,31
+10,Angola,31
+10,Antigua and Barbuda,31
+10,Argentina,31
+10,Armenia,31
+10,Asia,31
+10,Australia,31
+10,Austria,31
+10,Azerbaijan,31
+10,Bahamas,31
+10,Bahrain,31
+10,Bangladesh,31
+10,Barbados,31
+10,Belarus,31
+10,Belgium,31
+10,Belize,31
+10,Benin,31
+10,Bhutan,31
+10,Bolivia,31
+10,Bosnia and Herzegovina,31
+10,Botswana,31
+10,Brazil,31
+10,Brunei,31
+10,Bulgaria,31
+10,Burkina Faso,31
+10,Burundi,31
+10,Cambodia,31
+10,Cameroon,31
+10,Canada,31
+10,Cape Verde,31
+10,Central African Republic,31
+10,Chad,31
+10,Chile,31
+10,China,31
+10,Colombia,31
+10,Comoros,31
+10,Congo,31
+10,Costa Rica,31
+10,Cote d'Ivoire,31
+10,Croatia,31
+10,Cuba,31
+10,Cyprus,31
+10,Czechia,31
+10,Democratic Republic of Congo,31
+10,Denmark,31
+10,Djibouti,31
+10,Dominica,31
+10,Dominican Republic,31
+10,Ecuador,31
+10,Egypt,31
+10,El Salvador,31
+10,Equatorial Guinea,31
+10,Eritrea,31
+10,Estonia,31
+10,Eswatini,31
+10,Ethiopia,31
+10,Europe,31
+10,European Union,31
+10,Fiji,31
+10,Finland,31
+10,France,31
+10,Gabon,31
+10,Gambia,31
+10,Georgia,31
+10,Germany,31
+10,Ghana,31
+10,Greece,31
+10,Grenada,31
+10,Guatemala,31
+10,Guinea,31
+10,Guinea-Bissau,31
+10,Guyana,31
+10,Haiti,31
+10,Honduras,31
+10,Hong Kong,31
+10,Hungary,31
+10,Iceland,31
+10,India,31
+10,Indonesia,31
+10,International,31
+10,Iran,31
+10,Iraq,31
+10,Ireland,31
+10,Israel,31
+10,Italy,31
+10,Jamaica,31
+10,Japan,31
+10,Jordan,31
+10,Kazakhstan,31
+10,Kenya,31
+10,Kosovo,31
+10,Kuwait,31
+10,Kyrgyzstan,31
+10,Laos,31
+10,Latvia,31
+10,Lebanon,31
+10,Lesotho,31
+10,Liberia,31
+10,Libya,31
+10,Liechtenstein,31
+10,Lithuania,31
+10,Luxembourg,31
+10,Madagascar,31
+10,Malawi,31
+10,Malaysia,31
+10,Maldives,31
+10,Mali,31
+10,Malta,31
+10,Marshall Islands,4
+10,Mauritania,31
+10,Mauritius,31
+10,Mexico,31
+10,Moldova,31
+10,Monaco,31
+10,Mongolia,31
+10,Montenegro,31
+10,Morocco,31
+10,Mozambique,31
+10,Myanmar,31
+10,Namibia,31
+10,Nepal,31
+10,Netherlands,31
+10,New Zealand,31
+10,Nicaragua,31
+10,Niger,31
+10,Nigeria,31
+10,North America,31
+10,North Macedonia,31
+10,Norway,31
+10,Oceania,31
+10,Oman,31
+10,Pakistan,31
+10,Palestine,31
+10,Panama,31
+10,Papua New Guinea,31
+10,Paraguay,31
+10,Peru,31
+10,Philippines,31
+10,Poland,31
+10,Portugal,31
+10,Qatar,31
+10,Romania,31
+10,Russia,31
+10,Rwanda,31
+10,Saint Kitts and Nevis,31
+10,Saint Lucia,31
+10,Saint Vincent and the Grenadines,31
+10,San Marino,31
+10,Sao Tome and Principe,31
+10,Saudi Arabia,31
+10,Senegal,31
+10,Serbia,31
+10,Seychelles,31
+10,Sierra Leone,31
+10,Singapore,31
+10,Slovakia,31
+10,Slovenia,31
+10,Solomon Islands,20
+10,Somalia,31
+10,South Africa,31
+10,South America,31
+10,South Korea,31
+10,South Sudan,31
+10,Spain,31
+10,Sri Lanka,31
+10,Sudan,31
+10,Suriname,31
+10,Sweden,31
+10,Switzerland,31
+10,Syria,31
+10,Taiwan,31
+10,Tajikistan,31
+10,Tanzania,31
+10,Thailand,31
+10,Timor,31
+10,Togo,31
+10,Trinidad and Tobago,31
+10,Tunisia,31
+10,Turkey,31
+10,Uganda,31
+10,Ukraine,31
+10,United Arab Emirates,31
+10,United Kingdom,31
+10,United States,31
+10,Uruguay,31
+10,Uzbekistan,31
+10,Vatican,31
+10,Venezuela,31
+10,Vietnam,31
+10,World,31
+10,Yemen,31
+10,Zambia,31
+10,Zimbabwe,31
+11,Afghanistan,30
+11,Africa,30
+11,Albania,30
+11,Algeria,30
+11,Andorra,30
+11,Angola,30
+11,Antigua and Barbuda,30
+11,Argentina,30
+11,Armenia,30
+11,Asia,30
+11,Australia,30
+11,Austria,30
+11,Azerbaijan,30
+11,Bahamas,30
+11,Bahrain,30
+11,Bangladesh,30
+11,Barbados,30
+11,Belarus,30
+11,Belgium,30
+11,Belize,30
+11,Benin,30
+11,Bhutan,30
+11,Bolivia,30
+11,Bosnia and Herzegovina,30
+11,Botswana,30
+11,Brazil,30
+11,Brunei,30
+11,Bulgaria,30
+11,Burkina Faso,30
+11,Burundi,30
+11,Cambodia,30
+11,Cameroon,30
+11,Canada,30
+11,Cape Verde,30
+11,Central African Republic,30
+11,Chad,30
+11,Chile,30
+11,China,30
+11,Colombia,30
+11,Comoros,30
+11,Congo,30
+11,Costa Rica,30
+11,Cote d'Ivoire,30
+11,Croatia,30
+11,Cuba,30
+11,Cyprus,30
+11,Czechia,30
+11,Democratic Republic of Congo,30
+11,Denmark,30
+11,Djibouti,30
+11,Dominica,30
+11,Dominican Republic,30
+11,Ecuador,30
+11,Egypt,30
+11,El Salvador,30
+11,Equatorial Guinea,30
+11,Eritrea,30
+11,Estonia,30
+11,Eswatini,30
+11,Ethiopia,30
+11,Europe,30
+11,European Union,30
+11,Fiji,30
+11,Finland,30
+11,France,30
+11,Gabon,30
+11,Gambia,30
+11,Georgia,30
+11,Germany,30
+11,Ghana,30
+11,Greece,30
+11,Grenada,30
+11,Guatemala,30
+11,Guinea,30
+11,Guinea-Bissau,30
+11,Guyana,30
+11,Haiti,30
+11,Honduras,30
+11,Hong Kong,1
+11,Hungary,30
+11,Iceland,30
+11,India,30
+11,Indonesia,30
+11,International,30
+11,Iran,30
+11,Iraq,30
+11,Ireland,30
+11,Israel,30
+11,Italy,30
+11,Jamaica,30
+11,Japan,30
+11,Jordan,30
+11,Kazakhstan,30
+11,Kenya,30
+11,Kosovo,30
+11,Kuwait,30
+11,Kyrgyzstan,30
+11,Laos,30
+11,Latvia,30
+11,Lebanon,30
+11,Lesotho,30
+11,Liberia,30
+11,Libya,30
+11,Liechtenstein,30
+11,Lithuania,30
+11,Luxembourg,30
+11,Madagascar,30
+11,Malawi,30
+11,Malaysia,30
+11,Maldives,30
+11,Mali,30
+11,Malta,30
+11,Marshall Islands,30
+11,Mauritania,30
+11,Mauritius,30
+11,Mexico,30
+11,Moldova,30
+11,Monaco,30
+11,Mongolia,30
+11,Montenegro,30
+11,Morocco,30
+11,Mozambique,30
+11,Myanmar,30
+11,Namibia,30
+11,Nepal,30
+11,Netherlands,30
+11,New Zealand,30
+11,Nicaragua,30
+11,Niger,30
+11,Nigeria,30
+11,North America,30
+11,North Macedonia,30
+11,Norway,30
+11,Oceania,30
+11,Oman,30
+11,Pakistan,30
+11,Palestine,30
+11,Panama,30
+11,Papua New Guinea,30
+11,Paraguay,30
+11,Peru,30
+11,Philippines,30
+11,Poland,30
+11,Portugal,30
+11,Qatar,30
+11,Romania,30
+11,Russia,30
+11,Rwanda,30
+11,Saint Kitts and Nevis,30
+11,Saint Lucia,30
+11,Saint Vincent and the Grenadines,30
+11,Samoa,13
+11,San Marino,30
+11,Sao Tome and Principe,30
+11,Saudi Arabia,30
+11,Senegal,30
+11,Serbia,30
+11,Seychelles,30
+11,Sierra Leone,30
+11,Singapore,30
+11,Slovakia,30
+11,Slovenia,30
+11,Solomon Islands,30
+11,Somalia,30
+11,South Africa,30
+11,South America,30
+11,South Korea,30
+11,South Sudan,30
+11,Spain,30
+11,Sri Lanka,30
+11,Sudan,30
+11,Suriname,30
+11,Sweden,30
+11,Switzerland,30
+11,Syria,30
+11,Taiwan,30
+11,Tajikistan,30
+11,Tanzania,30
+11,Thailand,30
+11,Timor,30
+11,Togo,30
+11,Trinidad and Tobago,30
+11,Tunisia,30
+11,Turkey,30
+11,Uganda,30
+11,Ukraine,30
+11,United Arab Emirates,30
+11,United Kingdom,30
+11,United States,30
+11,Uruguay,30
+11,Uzbekistan,30
+11,Vanuatu,21
+11,Vatican,30
+11,Venezuela,30
+11,Vietnam,30
+11,World,30
+11,Yemen,30
+11,Zambia,30
+11,Zimbabwe,30
+12,Afghanistan,31
+12,Africa,31
+12,Albania,31
+12,Algeria,31
+12,Andorra,31
+12,Angola,31
+12,Antigua and Barbuda,31
+12,Argentina,31
+12,Armenia,31
+12,Asia,31
+12,Australia,31
+12,Austria,31
+12,Azerbaijan,31
+12,Bahamas,31
+12,Bahrain,31
+12,Bangladesh,31
+12,Barbados,31
+12,Belarus,31
+12,Belgium,31
+12,Belize,31
+12,Benin,31
+12,Bhutan,31
+12,Bolivia,31
+12,Bosnia and Herzegovina,31
+12,Botswana,31
+12,Brazil,31
+12,Brunei,31
+12,Bulgaria,31
+12,Burkina Faso,31
+12,Burundi,31
+12,Cambodia,31
+12,Cameroon,31
+12,Canada,31
+12,Cape Verde,31
+12,Cayman Islands,6
+12,Central African Republic,31
+12,Chad,31
+12,Chile,31
+12,China,31
+12,Colombia,31
+12,Comoros,31
+12,Congo,31
+12,Costa Rica,31
+12,Cote d'Ivoire,31
+12,Croatia,31
+12,Cuba,31
+12,Cyprus,31
+12,Czechia,31
+12,Democratic Republic of Congo,31
+12,Denmark,31
+12,Djibouti,31
+12,Dominica,31
+12,Dominican Republic,31
+12,Ecuador,31
+12,Egypt,31
+12,El Salvador,31
+12,Equatorial Guinea,31
+12,Eritrea,31
+12,Estonia,31
+12,Eswatini,31
+12,Ethiopia,31
+12,Europe,31
+12,European Union,31
+12,Fiji,31
+12,Finland,31
+12,France,31
+12,Gabon,31
+12,Gambia,31
+12,Georgia,31
+12,Germany,31
+12,Ghana,31
+12,Greece,31
+12,Grenada,31
+12,Guatemala,31
+12,Guinea,31
+12,Guinea-Bissau,31
+12,Guyana,31
+12,Haiti,31
+12,Honduras,31
+12,Hong Kong,1
+12,Hungary,31
+12,Iceland,31
+12,India,31
+12,Indonesia,31
+12,International,31
+12,Iran,31
+12,Iraq,31
+12,Ireland,31
+12,Israel,31
+12,Italy,31
+12,Jamaica,31
+12,Japan,31
+12,Jordan,31
+12,Kazakhstan,31
+12,Kenya,31
+12,Kosovo,31
+12,Kuwait,31
+12,Kyrgyzstan,31
+12,Laos,31
+12,Latvia,31
+12,Lebanon,31
+12,Lesotho,31
+12,Liberia,31
+12,Libya,31
+12,Liechtenstein,31
+12,Lithuania,31
+12,Luxembourg,31
+12,Madagascar,31
+12,Malawi,31
+12,Malaysia,31
+12,Maldives,31
+12,Mali,31
+12,Malta,31
+12,Marshall Islands,31
+12,Mauritania,31
+12,Mauritius,31
+12,Mexico,31
+12,Moldova,31
+12,Monaco,31
+12,Mongolia,31
+12,Montenegro,31
+12,Morocco,31
+12,Mozambique,31
+12,Myanmar,31
+12,Namibia,31
+12,Nepal,31
+12,Netherlands,31
+12,New Zealand,31
+12,Nicaragua,31
+12,Niger,31
+12,Nigeria,31
+12,North America,31
+12,North Macedonia,31
+12,Norway,31
+12,Oceania,31
+12,Oman,31
+12,Pakistan,31
+12,Palestine,31
+12,Panama,31
+12,Papua New Guinea,31
+12,Paraguay,31
+12,Peru,31
+12,Philippines,31
+12,Poland,31
+12,Portugal,31
+12,Qatar,31
+12,Romania,31
+12,Russia,31
+12,Rwanda,31
+12,Saint Kitts and Nevis,31
+12,Saint Lucia,31
+12,Saint Vincent and the Grenadines,31
+12,Samoa,31
+12,San Marino,31
+12,Sao Tome and Principe,31
+12,Saudi Arabia,31
+12,Senegal,31
+12,Serbia,31
+12,Seychelles,31
+12,Sierra Leone,31
+12,Singapore,31
+12,Slovakia,31
+12,Slovenia,31
+12,Solomon Islands,31
+12,Somalia,31
+12,South Africa,31
+12,South America,31
+12,South Korea,31
+12,South Sudan,31
+12,Spain,31
+12,Sri Lanka,31
+12,Sudan,31
+12,Suriname,31
+12,Sweden,31
+12,Switzerland,31
+12,Syria,31
+12,Taiwan,31
+12,Tajikistan,31
+12,Tanzania,31
+12,Thailand,31
+12,Timor,31
+12,Togo,31
+12,Trinidad and Tobago,31
+12,Tunisia,31
+12,Turkey,31
+12,Uganda,31
+12,Ukraine,31
+12,United Arab Emirates,31
+12,United Kingdom,31
+12,United States,31
+12,Uruguay,31
+12,Uzbekistan,31
+12,Vanuatu,31
+12,Vatican,31
+12,Venezuela,31
+12,Vietnam,31
+12,World,31
+12,Yemen,31
+12,Zambia,31
+12,Zimbabwe,31
